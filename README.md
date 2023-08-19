@@ -1,2 +1,2 @@
-# website
-# this is my website coming soon page.
+# this is the readme
+# this is also my portfolio coming soon page. crazy right?
